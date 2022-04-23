@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\bin\Debug\net5.0\Binary_Search.exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\bin\Debug\net5.0\Binary_Search.deps.json
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\bin\Debug\net5.0\Binary_Search.runtimeconfig.json
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\bin\Debug\net5.0\Binary_Search.runtimeconfig.dev.json
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\bin\Debug\net5.0\Binary_Search.dll
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\bin\Debug\net5.0\ref\Binary_Search.dll
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\bin\Debug\net5.0\Binary_Search.pdb
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\Binary_Search.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\Binary_Search.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\Binary_Search.AssemblyInfo.cs
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\Binary_Search.dll
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\ref\Binary_Search.dll
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\Binary_Search.pdb
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Binary_Search\obj\Debug\net5.0\Binary_Search.genruntimeconfig.cache
